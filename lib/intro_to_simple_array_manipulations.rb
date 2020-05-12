@@ -11,5 +11,5 @@ def using_pop(array)
   p output
 end
 
-my_array = ["Bob", "Joe"]
-using_pop(my_array)
+def pop_with_args(array)
+  output2 = 
