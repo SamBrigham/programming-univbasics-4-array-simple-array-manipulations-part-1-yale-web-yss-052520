@@ -8,7 +8,7 @@ end
 
 def using_pop(array)
   array.pop
-  return array.pop
+  p array.pop
 end
 
 my_array = ["Bob", "Joe"]
