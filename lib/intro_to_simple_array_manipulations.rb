@@ -20,3 +20,8 @@ def using_shift(array)
   shiftoutput = array.shift
   p shiftoutput
 end
+
+def shift_with_args(array)
+  shiftargsoutput = array.shift(2)
+  p shiftargsoutput
+end
