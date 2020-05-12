@@ -12,4 +12,6 @@ def using_pop(array)
 end
 
 def pop_with_args(array)
-  output2 = 
+  output2 = array.pip[2]
+  p output2
+end
