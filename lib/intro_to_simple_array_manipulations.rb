@@ -11,4 +11,5 @@ def using_pop(array)
   return array.pop
 end
 
-using_pop(["Bob", "Joe"])
+my_array = ["Bob", "Joe"]
+using_pop(my_array)
