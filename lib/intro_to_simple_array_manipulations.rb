@@ -9,5 +9,5 @@ end
 def using_pop(array)
   array.pop
   array.pop = b1
-  return array.pop
+  return b1
 end
